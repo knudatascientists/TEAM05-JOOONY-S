@@ -1,4 +1,6 @@
 # TEAM05-JOOONY-S
+---
+### 주제 : 관광데이터 AI
 - 허채범, 이재상, 신민수, 박병준
 
 - 슬랙 : https://join.slack.com/t/team05jooonys/shared_invite/zt-1h8jk6rgk-z_4BBU1RPwjA~atvygAicQ
